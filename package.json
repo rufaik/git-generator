@@ -1,0 +1,11 @@
+{
+  "name": "background-colour-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script (5).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
